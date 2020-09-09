@@ -1,7 +1,7 @@
 ---
 layout: post
-title:      "A 2000-year-ish Journey: From Humanities to Tech"
-date:       2020-09-09 23:10:35 +0000
+title:      "De Novo: Starting Fresh from Humanities to Tech"
+date:       2020-09-09 19:10:36 -0400
 permalink:  a_2000-year-ish_journey_from_humanities_to_tech
 ---
 
